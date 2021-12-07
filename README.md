@@ -19,6 +19,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/ShreenathBhara1
 [2]: https://www.linkedin.com/in/shreenath-bharadwaj-497b40197/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=shreenath2001" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenath2001&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=shreenath2001&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenath2001&theme=dark" />
 
